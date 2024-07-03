@@ -1,3 +1,9 @@
+Movie Genre Classification
+
+This project aims to predict movie genres using machine learning. It leverages natural language processing (NLP) techniques and focuses on genres and plot summaries(description). The main components include data preprocessing, feature extraction using TF-IDF vectorization, and genre classification using a Logistic Regression model. The dataset comprises movie titles, description, and genre labels. The model is trained and evaluated using metrics like accuracy, precision, recall, and F1-score. The project structure includes data, source code, models, and results.
+
+The datasets are of the format as below:
+
 Train data:
 ID ::: TITLE ::: GENRE ::: DESCRIPTION
 ID ::: TITLE ::: GENRE ::: DESCRIPTION
@@ -9,6 +15,3 @@ ID ::: TITLE ::: DESCRIPTION
 ID ::: TITLE ::: DESCRIPTION
 ID ::: TITLE ::: DESCRIPTION
 ID ::: TITLE ::: DESCRIPTION
-
-Source:
-ftp://ftp.fu-berlin.de/pub/misc/movies/database/
