@@ -1,4 +1,4 @@
-Movie Genre Classification
+***Movie Genre Classification***
 
 This project aims to predict movie genres using machine learning.
 It leverages natural language processing (NLP) techniques and focuses on genres and plot summaries(description).
